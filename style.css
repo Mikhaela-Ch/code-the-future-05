@@ -1,0 +1,13 @@
+h1{color:aqua}
+body{color:aliceblue}
+body{background-color: slategray;}
+
+.main-title{
+    display: flex;
+    justify-content: center;
+}
+.gods{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
