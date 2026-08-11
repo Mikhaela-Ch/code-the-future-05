@@ -6,8 +6,10 @@ body{background-color: slategray;}
     display: flex;
     justify-content: center;
 }
-.gods{
+.content-wrapper{
     display: flex;
     justify-content: center;
-    align-content: center;
+    align-content:space-around;
+    border: 2px white solid;
+    flex-direction: row;
 }
