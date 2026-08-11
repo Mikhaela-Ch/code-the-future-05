@@ -1,4 +1,3 @@
 # code-the-future-05
-Mikhaela
-Hello
-TEst
+Welcome to my Greek Mythology Mural website!
+A Project for Code the Future, ShePlusTech.
