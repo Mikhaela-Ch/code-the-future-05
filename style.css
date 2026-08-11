@@ -13,3 +13,10 @@ body{background-color: slategray;}
     border: 2px white solid;
     flex-direction: row;
 }
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-content:space-around;
+    flex-direction: row;
+}
