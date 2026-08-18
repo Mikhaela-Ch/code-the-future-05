@@ -1,4 +1,5 @@
-h1{color:aqua}
+h1{color:aqua;
+font-size: 50px;}
 body{color:aliceblue}
 body{background-color: slategray;}
 
@@ -9,7 +10,7 @@ body{background-color: slategray;}
 .content-wrapper{
     display: flex;
     justify-content: center;
-    align-content:space-around;
+    align-content:space-evenly;
     border: 2px white solid;
     flex-direction: row;
 }
